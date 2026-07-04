@@ -1,0 +1,6 @@
+{
+  "name": "BGrowth Apps Script Suite",
+  "description": "BGrowth Suite: Complete multi-tool platform. Features BGrowth Money™ (education, personal and business financial planning in 3 languages), BGrowth Babysitter™ (scheduling and child timelines), and business management tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
